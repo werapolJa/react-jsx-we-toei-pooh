@@ -8,6 +8,7 @@ function Exercise1() {
       <a href="https://www.techupth.com/" target="blank">
         techupth.com
       </a>
+      {/* Exercise 3 */}
     </div>
   );
 }
