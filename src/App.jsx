@@ -41,7 +41,7 @@ function LoginForm() {
 
 function App() {
   return (
-    <div className="exercises-container">
+    <div className="app">
       <IntroSection />
       <LoginForm />
     </div>
